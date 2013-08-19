@@ -2,4 +2,7 @@ This is a new file.
 
 
 
+
 Now I edit the file in the master-branch.
+Added this line in the feature-add branch.
+(Conflict resolved by vimdiff.)
