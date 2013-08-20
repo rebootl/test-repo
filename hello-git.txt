@@ -7,6 +7,6 @@ Now, I edited this file and added _this_ line.
 Let's see what happens...
 
 Added this line remotely.
-Added one more line remotely.
+(removed this line)
 
 Bye
